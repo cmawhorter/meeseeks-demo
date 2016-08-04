@@ -1,0 +1,40 @@
+[
+  {
+    "id": "1",
+    "name": "t-shirt",
+    "categories": [ "1" ],
+    "variants": [
+      {
+        "sku": "tshirt-small",
+        "name": "small",
+        "price": 1000
+      },
+      {
+        "sku": "tshirt-medium",
+        "name": "medium",
+        "price": 1000
+      }
+    ],
+    "created": "",
+    "updated": ""
+  },
+  {
+    "id": "2",
+    "name": "cup",
+    "categories": [ "2" ],
+    "variants": [
+      {
+        "sku": "cup-white",
+        "name": "white",
+        "price": 1000
+      },
+      {
+        "sku": "cup-black",
+        "name": "black",
+        "price": 1000
+      }
+    ],
+    "created": "",
+    "updated": ""
+  }
+]

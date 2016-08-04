@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "version": "1.0.0",
+  "name": "meeseeks-demo",
+  "scripts": {},
+  "engines": {
+    "node": "4.3.x"
+  },
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "meeseeks": "^1.0.0-alpha1"
+  },
+  "devDependencies": {
+    "aws-sdk": "*",
+    "mocha": "*"
+  }
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "T-Shirts",
+    "description": "",
+    "parentCategory": null
+  },
+  {
+    "id": "2",
+    "name": "Cups",
+    "description": "",
+    "parentCategory": null
+  },
+  {
+    "id": "3",
+    "name": "Mugs",
+    "description": "",
+    "parentCategory": "2"
+  }
+]
